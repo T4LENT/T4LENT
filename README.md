@@ -145,11 +145,11 @@ Developing advanced protection systems for MMORPG servers:
 
 ## 🌐 Links
 
-[![Website](https://img.shields.io/badge/Forum-vSRO.org-0099ff?style=for-the-badge)]((https://www.vsro.org/TALENT/))
-[![Website](https://img.shields.io/badge/Website-vsro.org-blue?style=for-the-badge)]([https://www.vsro.org](https://www.vsro.org/TALENT/))
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mr.talent)
-[![Forum](https://img.shields.io/badge/Forum-vSRO.org-0099ff?style=for-the-badge)]([https://www.vsro.org](https://www.vsro.org))
+[![Website](https://img.shields.io/badge/Website-TALENT-blue?style=for-the-badge)](https://www.vsro.org/TALENT/)
+
 [![Forum](https://img.shields.io/badge/Forum-vSRO.org-0099ff?style=for-the-badge)](https://www.vsro.org)
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.vsro.org/TALENT/)
 
 ---
 
