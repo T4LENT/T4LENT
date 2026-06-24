@@ -6,6 +6,9 @@
 <p align="center">
 Passionate about MMORPG server development, automation systems, and scalable backend/frontend solutions.
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=T4LENT&color=brightgreen" />
+</p>
 
 ---
 
