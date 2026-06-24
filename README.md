@@ -17,7 +17,6 @@ Passionate about MMORPG server development, automation systems, and scalable bac
 - 🏗 Administrator of vSRO.ORG (Silkroad Online/Metin2/Knight Online/Other Community & Forum)
 - 🎮 Passionate MMORPG Developer with years of experience in private server ecosystems.
 - ⚔️ Specialized in Silkroad Online server development and custom game systems.
-- 🏗 Founder & Administrator of gaming communities and discussion platforms.
 - 💻 Experienced in backend development, database architecture, and server-side automation.
 - 🔍 Interested in reverse engineering, packet analysis, and game mechanics research.
 - 🤖 Designing intelligent bot simulation systems and AI-driven gameplay environments.
